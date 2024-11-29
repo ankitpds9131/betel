@@ -14,5 +14,6 @@ public class EmployeeDto {
 	private String lastName;
 	private int age;
 	private String city;
+	private int pinCode;
 	
 }
